@@ -8,3 +8,5 @@
 	url = https://github.com/nhphuong91/turtlebot3.git
 [submodule "turtlebot3_msgs"]
 	url = https://github.com/nhphuong91/turtlebot3_msgs.git
+[submodule "turtlebot3_simulations"]
+	url = https://github.com/nhphuong91/turtlebot3_simulations.git
