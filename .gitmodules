@@ -1,12 +1,18 @@
 [submodule "iai_kinect2"]
+	path = iai_kinect2
 	url = https://github.com/nhphuong91/iai_kinect2.git
 [submodule "libfreenect2"]
+	path = libfreenect2
 	url = https://github.com/nhphuong91/libfreenect2.git
 [submodule "openslam_gmapping"]
+	path = openslam_gmapping
 	url = https://github.com/ros-perception/openslam_gmapping.git
 [submodule "turtlebot3"]
+	path = turtlebot3
 	url = https://github.com/nhphuong91/turtlebot3.git
 [submodule "turtlebot3_msgs"]
+	path = turtlebot3_msgs
 	url = https://github.com/nhphuong91/turtlebot3_msgs.git
 [submodule "turtlebot3_simulations"]
+	path = turtlebot3_simulations
 	url = https://github.com/nhphuong91/turtlebot3_simulations.git
